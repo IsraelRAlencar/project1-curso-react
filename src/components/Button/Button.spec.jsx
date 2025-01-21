@@ -1,4 +1,3 @@
-import userEvent from '@testing-library/user-event';
 import { Button } from '.';
 const { render, screen, fireEvent } = require("@testing-library/react");
 
